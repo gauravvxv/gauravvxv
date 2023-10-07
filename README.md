@@ -1,5 +1,4 @@
 <!-- Banner Image -->
-![Header](https://github.com/gauravvxv/gauravvxv/raw/main/assets/banner.png)
 
 <!-- Introduction -->
 ### Hi there, I'm Gaurav Sharma 👋
