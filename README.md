@@ -24,6 +24,11 @@
 - 👨‍💻 You can check out my projects on [GitHub](https://github.com/gauravvxv?tab=repositories)
 - 📫 Reach me at **gauravxv0410@gmail.com**
 
+- <!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravvxv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <!-- Languages and Tools Section -->
 ## Languages and Tools
 
