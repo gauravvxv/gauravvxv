@@ -23,6 +23,7 @@
 - 🌱 I’m currently learning **JavaScript and React**
 - 👨‍💻 You can check out my projects on [GitHub](https://github.com/gauravvxv?tab=repositories)
 - 📫 Reach me at **gauravxv0410@gmail.com**
+- 🔗 Visit my portfolio: [Portfolio](https://gauravvxv.github.io/)
 
 - <!-- Profile Views -->
 <p align="left">
