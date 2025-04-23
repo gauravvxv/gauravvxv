@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Next.js and Java<br><br>👨‍💻 All of my projects are available at https://gauravvxv.github.io<br><br>💬 Ask me about React , Express<br><br>📫 How to reach me gauravxv0410@gmail.com
+I’m currently learning MySQL, Excel and PowerBI<br><br>👨‍💻 All of my projects are available at https://gauravvxv.github.io<br><br>💬 Ask me about React , Express<br><br>📫 How to reach me gauravxv0410@gmail.com
 
 
 ## 🌐 Socials:
