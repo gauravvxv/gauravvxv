@@ -36,7 +36,7 @@ I specialize in leveraging analytical tools and techniques to solve complex prob
 I'm on a continuous journey to enhance my data analysis skills.  
 I aim to transform raw data into actionable insights that help drive smarter business decisions.
 
-[📄 My Resume](https://drive.google.com/file/d/1rNj_p13F043rsdwOWRqjXAKl_dQdJRv7/view?usp=sharing)
+[📄 My Resume](https://drive.google.com/file/d/1ug0-HrRmadE3BQh4StM6M_p4I8ro9tyA/view?usp=sharing)
 
 
 ## 🚀 Featured Projects
