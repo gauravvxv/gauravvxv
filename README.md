@@ -39,16 +39,54 @@ I aim to transform raw data into actionable insights that help drive smarter bus
 [📄 My Resume](https://drive.google.com/file/d/1rNj_p13F043rsdwOWRqjXAKl_dQdJRv7/view?usp=sharing)
 
 
-## 🗂️ Projects
+## 🚀 Featured Projects
 
-|  |  |
-|--|--|
-| <img src="https://mir-s3-cdn-cf.behance.net/projects/404/7b9b0e219825365.Y3JvcCwyNTYyLDIwMDQsNzkyLDI0MQ.png" alt="Project zepto" width="900" height="250"/> | **[Zepto Inventory](https://github.com/gauravvxv/Zepto)** <br> Zepto Inventory analyzes product sales, discounts, and stock levels to provide actionable business insights. It helps identify top-performing categories, out-of-stock items, and pricing opportunities, enabling data-driven decisions for improved sales and inventory management. |
-| <img src="https://media.timeout.com/images/106147793/image.jpg" alt="Project 1" width="900" height="250"/> | **[Airbnb NYC 2019 Dashboard](https://github.com/gauravvxv/Airbnb)** <br> To design an interactive Excel dashboard on the 2019 Airbnb New York City dataset that uncovers insights into pricing, availability, guest behavior, and host activity, with the goal of simplifying data exploration and supporting better decision-making through clear visualizations. |
-| <img src="https://media.istockphoto.com/id/2164917263/photo/close-up-of-illuminated-diyas-on-table-at-night.jpg?s=612x612&w=0&k=20&c=faNs4Q9gBAcupsyyGs39fD_uQFxHhjsrADCminB3xZ4=" alt="Project 2" width="900" height="250"/> | **[Diwali Sales Analysis](https://github.com/gauravvxv/Diwali-Sales-Analysis)** <br> This project explores and analyzes Diwali sales data to uncover consumer behavior insights, spending patterns, and regional trends during the festive season. It includes data cleaning, visualizations, and interpretation to support business decisions in marketing and sales strategy. |
-| <img src="https://www.atsinc.com/hubfs/Blogs/Corporate%20Recruiting/Pros%20and%20Cons%20of%20Open%20Office%20Environment/Employees-working-in-open-office.jpg" alt="Project 3" width="900" height="250"/> | **[Employee Analytics Dashboard](https://github.com/gauravvxv/Employee-Analytics-Dashboard)** <br> A complete end-to-end data analytics project where I cleaned and analyzed employee data using Python, Excel (Power Query), PostgreSQL, and Power BI. This project uncovers key business insights such as salary distribution, department-wise performance, work type trends, and hiring patterns. |
-| <img src="https://play-lh.googleusercontent.com/EXSD8FdlH2MgYhtj45p9vuIkNM5yExIsMTN6Wwz2dRDREh9aM8BawQMGGocB1BhtNg=w526-h296-rw" alt="Project 4" width="900" height="250"/> | **[Netflix Users Analysis](https://github.com/gauravvxv/Netflix-Users-Database)** <br> This project explores and visualizes Netflix users data to understand user behavior, subscription preferences, and content interests. The analysis was performed using Python with Pandas, NumPy, Matplotlib, and Seaborn.|
-| <img src="https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2025-06/10%20Low-Budget%20Cafe%20Interior%20Design%20Tips%20to%20Follow.jpg" alt="Project 5" width="900" height="250"/> | **[Cafe Sales](https://github.com/gauravvxv/cafe-sales)** <br> Cleaned a messy cafe sales dataset using Pandas. Visualized trends with Matplotlib & Seaborn. Created monthly insights, fixed data types, and handled missing values. |
+### 📦 Food Delivery Crisis Impact & recovery Analysis 
+🔗 [View Project](https://github.com/gauravvxv/QuickBite-Express-Crisis-Recovery)
+
+End-to-end crisis recovery analysis for a food delivery startup using Python, SQL, and Power BI, focusing on orders, revenue, delivery performance, and customer retention.
+
+**Key Highlights:**
+- Analyzed how a major operational issue in June 2025 affected the business, focusing on orders, revenue, delivery timelines, and customer ratings.
+- Identified a 61% decline in orders and 71% revenue loss, with delayed deliveries emerging as the main reason behind 83% customer churn.
+- Used SQL and Python to clean and analyze operational data and understand where the business was losing customers and revenue.
+- Created Power BI dashboards to monitor recovery performance by city and shared practical insights to help improve delivery efficiency and customer retention.
+
+
+**Tech Stack:** Python, Pandas, SQL, Power BI  
+
+---
+
+### 🏨 Consumer Purchasing Trends and Insights analysis
+🔗 [View Project](https://github.com/gauravvxv/Customer-Shopping-Behavior)
+
+Analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal is to uncover insights into spending patterns, customer segmentation, product preferences, and subscription behavior to guide strategic business decisions.
+
+**Key Highlights:**
+- Analyzed 3,900+ retail transactions to understand how age groups, subscriptions, discounts, and shipping preferences affect customer purchasing behavior.
+- Cleaned and structured customer data using Python, and used SQL to compare spending patterns across demographics, product categories, and subscriber types.
+- Built an interactive Power BI dashboard to identify high-value customer segments and support pricing, promotion, and retention decisions.
+- Shared insights on customer preferences and discount effectiveness to help improve sales strategy and customer targeting.
+
+
+**Tech Stack:** Python, Pandas, SQL, Power BI
+
+---
+
+### 👨‍💼 Employee Analytics Dashboard  
+🔗 [View Project](https://github.com/gauravvxv/Employee-Analytics-Dashboard)
+
+An end-to-end HR analytics project covering data cleaning, SQL querying, and dashboard development to uncover workforce insights.
+
+**Key Highlights:**
+- Salary distribution and compensation analysis  
+- Department-wise performance insights  
+- Hiring and workforce trend analysis  
+- Work type and attrition pattern study  
+
+**Tech Stack:** Python, PostgreSQL, Power BI, Excel  
+
+---
 
 
  ---
